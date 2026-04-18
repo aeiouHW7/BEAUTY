@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "lovart-api": {
+      "source": "lovartai/lovart-skill",
+      "sourceType": "github",
+      "computedHash": "7971e3ab984723ca451660b1bc6d8d0a5e80456fbd7b7db0639cdb759436a91f"
+    }
+  }
+}
